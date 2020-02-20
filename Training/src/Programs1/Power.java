@@ -1,6 +1,7 @@
 package Programs1;
 
 //import java.util.Scanner;
+//command by raji
 
 public class Power {
 	static int sum =0;
